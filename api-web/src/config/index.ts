@@ -1,0 +1,1 @@
+export {configEnv} from './configEnv';
