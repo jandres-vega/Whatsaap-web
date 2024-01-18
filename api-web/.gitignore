@@ -2,7 +2,7 @@
 
 # dependencies
 node_modules/
-
+.env
 # Expo
 .idea/
 dist/
@@ -23,6 +23,7 @@ web-build/
 npm-debug.*
 yarn-debug.*
 yarn-error.*
+.en
 
 # macOS
 .DS_Store
